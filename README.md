@@ -8,20 +8,6 @@
 
 ---
 
-## 📋 Tabla de Contenidos
-
-1. [Descripción del Proyecto](#descripción-del-proyecto)
-2. [Arquitectura del Sistema](#arquitectura-del-sistema)
-3. [Tools Disponibles](#tools-disponibles)
-4. [Instalación y Configuración](#instalación-y-configuración)
-5. [Pruebas y Validación](#pruebas-y-validación)
-6. [Estructura del Proyecto](#estructura-del-proyecto)
-7. [Solución de Problemas](#solución-de-problemas)
-8. [Evidencias](#evidencias)
-9. [Conclusiones](#conclusiones)
-
----
-
 ## 📋 Descripción del Proyecto
 
 Sistema de gestión empresarial implementado mediante el protocolo **MCP (Model Context Protocol)** con arquitectura multi-servidor. El sistema permite a **Claude Desktop** interactuar con dos dominios de negocio independientes (Ventas y Pedidos) a través de un gateway centralizado que enruta las peticiones según prefijos definidos.
