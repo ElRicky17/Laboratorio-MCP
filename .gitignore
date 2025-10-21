@@ -1,0 +1,20 @@
+# Ignorar dependencias
+node_modules/
+*/node_modules/
+
+# Ignorar logs
+*.log
+
+# Ignorar archivos de entorno solo si tienen datos sensibles
+# .env
+
+# Ignorar build o dist
+dist/
+build/
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar carpetas de Docker temporales
+volumes/

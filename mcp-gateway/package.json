@@ -1,0 +1,16 @@
+{
+  "name": "mcp-gateway",
+  "version": "1.0.0",
+  "description": "Gateway MCP para enrutar entre servidores Ventas y Pedidos",
+  "main": "gateway.js",
+  "type": "module",
+  "scripts": {
+    "start": "node gateway.js"
+  },
+  "keywords": ["mcp", "gateway", "proxy"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
